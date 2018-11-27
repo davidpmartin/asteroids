@@ -1,0 +1,20 @@
+The following reference list shows the assets used and their respective sources. Content creators and dates are listed where possible.
+
+Assets:-
+
+alien.mp3
+explosion.mp3
+gameover.mp3
+laser.mp3
+lvlcomplete.mp3
+powerup.mp3
+
+
+References:-
+
+Kastenfrosch (Creator). (2012). Retrieved from https://freesound.org/ (Creative Commons 0 License)
+Zapsplat (Host). Retrieved from https://www.zapsplat.com/ (Zapsplat Standard License - https://www.zapsplat.com/license-type/standard-license/)
+noirenex (Creator). (2012). Retrieved from https://freesound.org/ (Creative Commons 0 License)
+LittleRobotSoundFactory (Creator). (2015). Retrieved from https://freesound.org (Attribution License - https://creativecommons.org/licenses/by/3.0/)
+Kastenfrosch (Creator). (2012). Retrieved from https://freesound.org/ (Creative Commons 0 License)
+JavierZumer (Creator). (2014). Retrieved from https://freesound.org/ (Creative Commons 0 License)
