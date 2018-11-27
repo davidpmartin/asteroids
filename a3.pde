@@ -1,15 +1,12 @@
 /**************************************************************
 * File: a3.pde
-* Group: 1 (James Knox, David Martin)
-* Date: 18/03/2018
-* Course: COSC101 - Software Development Studio 1
 * Description: Asteroids is a game about shooting asteroids, aliens and
 *  getting a high score.
 * Usage: Make sure to run in the processing environment on a 1080p screen
 *  and press play
 * Dependencies: Requires the Processing 'Sound' library
 * Assets: Sound effect files were sourced free from several
-   websites. See accompanying 'Asset Sources.txt' document for details.
+   websites. See accompanying 'Asset References.txt' document for details.
 **************************************************************/
 
 /**************************************************************************
